@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+
+body, input, textarea, button, select{
+  font-family: Roboto, sans-serif;
+}
+
+body{
+  background-color: #121214;
+  color: #A8A8B3;
+}
+
+button:hover{
+  background-color: #673bcf;
+}
